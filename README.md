@@ -2,4 +2,4 @@
 my life
 
 
-click to run  https://stemgerlamo.github.io/portfolio/project-dom
+click to run  https://stemgerlamo.github.io/portfolio/project-dom/index.html
